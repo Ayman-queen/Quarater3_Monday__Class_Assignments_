@@ -4,6 +4,79 @@ Python is a **high-level, interpreted programming language** designed with an em
 
 ---
 
+# **🔹 Introduction to Python**  
+
+Python is a **high-level, interpreted programming language** designed with an emphasis on readability and simplicity. It is widely used in fields such as **web development**, **data science**, **machine learning**, and **automation**. Python’s syntax is easy to understand, making it one of the most popular languages for beginners and experts alike.
+
+---
+
+## **🔹 Python Operators**  
+
+Operators are special symbols in Python that perform operations on variables and values. Python provides several types of operators:
+
+### **1️⃣ Arithmetic Operators**  
+These operators perform mathematical operations:
+- `+` (Addition): `x + y`
+- `-` (Subtraction): `x - y`
+- `*` (Multiplication): `x * y`
+- `/` (Division): `x / y`
+- `//` (Floor Division): `x // y`
+- `%` (Modulus): `x % y`
+- `**` (Exponentiation): `x ** y`
+
+### **2️⃣ Assignment Operators**  
+These operators assign values to variables:
+- `=` (Assign): `x = 10`
+- `+=` (Add and assign): `x += 5` (same as `x = x + 5`)
+- `-=` (Subtract and assign): `x -= 5`
+- `*=` (Multiply and assign): `x *= 5`
+- `/=` (Divide and assign): `x /= 5`
+- `//=` (Floor divide and assign): `x //= 5`
+- `%=` (Modulus and assign): `x %= 5`
+- `**=` (Exponentiate and assign): `x **= 5`
+- `&=` (Bitwise AND and assign): `x &= 5`
+- `|=` (Bitwise OR and assign): `x |= 5`
+- `^=` (Bitwise XOR and assign): `x ^= 5`
+- `>>=` (Right shift and assign): `x >>= 5`
+- `<<=` (Left shift and assign): `x <<= 5`
+- `:=` (Walrus operator - assigns and returns a value): `if (n := len(data)) > 0:`
+
+### **3️⃣ Comparison Operators**  
+These operators compare values and return `True` or `False`:
+- `==` (Equal to): `x == y`
+- `!=` (Not equal to): `x != y`
+- `>` (Greater than): `x > y`
+- `<` (Less than): `x < y`
+- `>=` (Greater than or equal to): `x >= y`
+- `<=` (Less than or equal to): `x <= y`
+
+### **4️⃣ Logical Operators**  
+These operators perform logical operations:
+- `and` (Logical AND): `x > 5 and y < 10`
+- `or` (Logical OR): `x > 5 or y < 10`
+- `not` (Logical NOT): `not(x > 5)`
+
+### **5️⃣ Identity Operators**  
+These operators compare the memory location of two objects:
+- `is`: `x is y`
+- `is not`: `x is not y`
+
+### **6️⃣ Membership Operators**  
+These operators check for membership in a sequence:
+- `in`: `x in y`
+- `not in`: `x not in y`
+
+### **7️⃣ Bitwise Operators**  
+These operators perform bit-level operations:
+- `&` (AND): `x & y`
+- `|` (OR): `x | y`
+- `^` (XOR): `x ^ y`
+- `~` (NOT): `~x`
+- `<<` (Left shift): `x << 2`
+- `>>` (Right shift): `x >> 2`
+
+---
+
 ## **🔹 Python Data Types**  
 
 Python has several built-in data types to define the kind of data a variable can hold. Here’s a breakdown:
