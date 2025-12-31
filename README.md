@@ -4,12 +4,6 @@ Python is a **high-level, interpreted programming language** designed with an em
 
 ---
 
-# **🔹 Introduction to Python**  
-
-Python is a **high-level, interpreted programming language** designed with an emphasis on readability and simplicity. It is widely used in fields such as **web development**, **data science**, **machine learning**, and **automation**. Python’s syntax is easy to understand, making it one of the most popular languages for beginners and experts alike.
-
----
-
 ## **🔹 Python Operators**  
 
 Operators are special symbols in Python that perform operations on variables and values. Python provides several types of operators:
